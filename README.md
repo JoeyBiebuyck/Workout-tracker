@@ -5,10 +5,10 @@ The app is published here since the apple developer subscription is prohibitivel
 
 ## App structure
 The app is structured as follows: 
-- First you can make a "muscle group". This is to assign categories to each exercise. <img src="images/new_musclegroup.png" width="250"> ![Musclegroup view](images/musclegroup_view.png?width=300) ![Musclegroup](images/empty_musclegroup.png?width=300)
-- Secondly you can create exercises. ![New exercise 1](images/new_exercise.png?width=300) ![New exercise 2](images/new_exercise2.png?width=300) ![Exercise view](images/musclegroup.png?width=300)
+- First you can make a "muscle group". This is to assign categories to each exercise. <img src="images/new_musclegroup.png" width="250"> <img src="images/musclegroup_view.png" width="250"> <img src="images/empty_musclegroup.png" width="250">
+- Secondly you can create exercises. <img src="images/new_exercise.png" width="250"> <img src="images/new_exercise2.png" width="250"> <img src="images/musclegroup.png" width="250">
 - Each time an exercise is updated, a workout entry is created. This is the way that previous workouts gets logged and tracked.
-- Previous workouts can be consulted, and a graph of the weight used in the workouts is plotted. ![Graph](images/graph.png?width=300)
+- Previous workouts can be consulted, and a graph of the weight used in the workouts is plotted. <img src="images/graph.png" width="250">
 
 ## Future ideas
 - Integrate native iCloud sync
